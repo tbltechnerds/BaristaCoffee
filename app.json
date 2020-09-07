@@ -1,0 +1,12 @@
+{
+  "name": "barista",
+  "displayName": "barista",
+  "expo": {
+    "name": "barista",
+    "slug": "barista",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
